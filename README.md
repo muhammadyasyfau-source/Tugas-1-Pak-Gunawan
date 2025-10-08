@@ -1,2 +1,2 @@
-# Tugas-1-Pak-Gunawan
-Tugas 1 Matkul Dasar Pemrograman
+# Tugas--Pak-Gunawan
+Tugas Matkul Dasar Pemrograman
